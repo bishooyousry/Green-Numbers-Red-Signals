@@ -36,6 +36,12 @@ This keeps casual visitors out; it is not strong security, because the code is i
 
 The **Projector page** follows whatever stage is open, so you can leave it on the big screen.
 
+## Language: English / Arabic
+- The top bar has a **العربية / English** button on every screen (including the join and facilitator pages). **Each person switches their own device**; the choice is remembered on that device.
+- Arabic is **simplified Modern Standard Arabic** and the page flips to **right-to-left**. The core terms stay in English on purpose: Target, Capacity, Trust, Real Target, Energy, Connection, Efficacy and the work-condition words (Workload, Control, Reward, Community, Fairness, Values).
+- In the facilitator console, **Copy Arabic link** gives you the group link with `&lang=ar` at the end, so a group opens straight in Arabic. (Any link can also be opened in Arabic by adding `&lang=ar` to it, or `&lang=en` for English.)
+- Everything is translated: the screens, the case and cards, the buttons, the pop-up messages, the trainer notes and the debrief. The only thing that stays in English is the browser tab title until the page loads.
+
 ## Game feel and sound
 Each stage opens with a full-screen splash, screens slide in, cards flip, coins drop when a check-in is used, the timer pulses in the last seconds and bars grow when results appear. Sound is made of short synthesized beeps and is **on by default on every screen**: press **Sound on / Sound off** in the top bar to turn it off (remembered on that device). Browsers only allow sound after the first tap on the page. Devices set to "reduce motion" get no animations or splash.
 
